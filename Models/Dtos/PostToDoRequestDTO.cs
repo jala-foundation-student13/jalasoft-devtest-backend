@@ -9,6 +9,6 @@ namespace jalasoft_devtest_backend.Models.Dtos
     {
         public string Title { get; set; }
         public string Description { get; set; }
-
+        public DateTime DueTime { get; set; }
     }
 }
