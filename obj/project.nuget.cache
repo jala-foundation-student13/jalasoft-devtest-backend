@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dVT/JLigWQiqt+BdWcXdXs4l9t2sM+ZoUxfmfRN8uT6xNQrrSx+yiLVLIf+w2H3sN44n5y/+9auHdSZXAzHtGA==",
+  "dgSpecHash": "Pz5Cjy307myTeD80nhAqq5geD7Bos52O/sNbpLGm8WNWpL09g63Q1zardYB5g5snIb3NWhHJDDUmGepo5ZQxQA==",
   "success": true,
-  "projectFilePath": "D:\\Dev\\JalaTest\\jalasoft-devtest-backend\\jalasoft-devtest-backend.csproj",
+  "projectFilePath": "D:\\Dev\\test\\jalasoft-devtest-backend\\jalasoft-devtest-backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pedro\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Pedro\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -73,6 +73,8 @@ namespace jalasoft_devtest_backend.Repositories.Implementation
             };
             
             _context.Entry(existingToDo).CurrentValues.SetValues(softDeletedTodo);
+            await _context.SaveChangesAsync();
+
 
             return softDeletedTodo;
         }
