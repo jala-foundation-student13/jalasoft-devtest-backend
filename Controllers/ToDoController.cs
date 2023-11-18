@@ -28,6 +28,7 @@ namespace jalasoft_devtest_backend.Controllers
                 Description = request.Description,
                 CreatedAt = DateTime.Now,
                 UpdatedAt = DateTime.Now,
+                DueTime = null,
                 IsDeleted = false,
                 Status = TodoStatus.NotCompleted
             };
@@ -41,6 +42,7 @@ namespace jalasoft_devtest_backend.Controllers
                 Description = toDo.Description,
                 CreatedAt = toDo.CreatedAt,
                 UpdatedAt = toDo.UpdatedAt,
+                DueTime = null,
                 IsDeleted = toDo.IsDeleted,
                 Status = toDo.Status
             };

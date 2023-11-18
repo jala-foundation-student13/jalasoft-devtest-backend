@@ -12,6 +12,7 @@ namespace jalasoft_devtest_backend.Models.Dtos
         public string Description { get; set; }
         public DateTime CreatedAt { get; set; } = new DateTime();
         public DateTime UpdatedAt {get; set; } = new DateTime();
+        public DateTime? DueTime  {get; set; } = null;
         public Boolean IsDeleted { get; set; } = false;
         public TodoStatus Status { get; set; } = TodoStatus.NotCompleted;
     }
