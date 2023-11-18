@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\jalasoft-devtest-backend.props" />
+</Project>
