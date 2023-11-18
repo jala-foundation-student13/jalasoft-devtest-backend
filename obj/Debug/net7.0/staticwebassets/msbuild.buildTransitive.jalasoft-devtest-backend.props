@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\jalasoft-devtest-backend.props" />
+</Project>
